@@ -1,0 +1,29 @@
+MODEL OUTPUT
+
+1.  From Decision Tree :
+     mean 5.02071541578294
+     Standard_deviation: 1.05121272062507
+
+2.  From linear Regeressioin:
+     mean 5.02071541578294
+     Standard_deviation: 1.05121272062507
+
+3.  From RandomForestTree:
+     mean 3.3254667619907914
+     Standard_deviation: 0.6040854654174547 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
